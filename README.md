@@ -1,2 +1,4 @@
 # stopwatch
-Clean and simple stopwatch app
+Clean and simple stopwatch.
+
+Start, stop, reset, check duration.
